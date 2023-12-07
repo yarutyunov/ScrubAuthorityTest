@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "C:/Users/yarutyunov/Downloads/PPC_1_0_0/1.0.0/1.0.0/PricingAndConfiguration.wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, Ppc"
+    ],
+    "targetFramework": "net7.0",
+    "typeReuseMode": "None"
+  }
+}
