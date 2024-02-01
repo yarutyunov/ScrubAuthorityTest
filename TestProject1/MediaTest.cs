@@ -22,7 +22,7 @@ namespace TestProject1
                         Mode = BasicHttpSecurityMode.Transport
                     }
                 },
-                new EndpointAddress(new Uri("https://promostandards.scrubauthority.com/api/ppc")));
+                new EndpointAddress(new Uri("https://promostandards.scrubauthority.com/api/media_content")));
         }
 
         [Fact]
